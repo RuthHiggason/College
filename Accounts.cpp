@@ -3,7 +3,7 @@
 //Inputs: none
 //Outputs: prints out different account information
 //Author: Ruth Higgason
-//Creation: (EC Lab #3)
+//Creation: Fall 2023 (Software Engineering I)
 
 #include <iostream>
 #include <string>
